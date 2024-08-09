@@ -12,14 +12,14 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
-global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.autoRecord = false;                //make true to enable auto recording
+global.groupevent = false;                //This is the new variable for controlling group event handling.
+global.statusseen = true;                 //make true to view statuses 
 
 
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
+global.Owner = ["꧁༺⚔︎𝐓² ꙰𝐊_L𝐢v𝐨҉⚔︎༻꧂"];
+global.OwnerNumber = ["27766438803"];
+global.ownertag = ["Ӫ ӬӸ  ӹӺ ǂǶ∅∆∇"]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
@@ -66,15 +66,14 @@ global.mess = {
     jobdone: 'Here you go...',
     useradmin: 'Only group Admin can use the command 😂 ',
     botadmin: 'Make me Admin first 😌📍.',
-    botowner: 'Only my *Owner* can use this command,Dont trespass, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    botowner: 'Only ꧁༺⚔︎𝐓² ꙰𝐊_L𝐢v𝐨҉⚔︎༻꧂ can use this command,Dont trespass, or else!',
+    grouponly: 'This command is only made for *Groups*!',
+    privateonly: 'This command is only made for *Private Chat*!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Wait a lil bit (¬_¬)ﾉ...',
-    nolink: ' provide me *link*, Baka!',
-    error: 'An error occurd!',
+    nolink: ' provide me *link*!',
+    error: 'An error occurred!',
     banned: 'You cant use the commands because you Are *Banned*',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert,idiot! This is not a NSFW enabled group!'
     
-}
